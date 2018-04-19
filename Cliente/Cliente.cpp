@@ -81,10 +81,9 @@ string Cliente::leerServidor() {
     string character = "";
     while (true) {
         character = leerChar();
-        message += character;
         if (character == delimitador) { // delimitador para saber cuando recibi toda la palabra
             break;
-        }
+        } else message += character;
     }
     return message;
 }
