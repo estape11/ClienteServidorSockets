@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/estape11/CLionProjects/ClienteServidorSockets/Cliente/Cliente.cpp
+Cliente.h
+/Users/estape11/CLionProjects/ClienteServidorSockets/Cliente/Cliente.h
+
+/Users/estape11/CLionProjects/ClienteServidorSockets/Cliente/Cliente.h
+stdio.h
+/Users/estape11/CLionProjects/ClienteServidorSockets/Cliente/stdio.h
+iostream
+-
+stdio.h
+/Users/estape11/CLionProjects/ClienteServidorSockets/Cliente/stdio.h
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+netdb.h
+-
+thread
+-
+
+/Users/estape11/CLionProjects/ClienteServidorSockets/Cliente/main.cpp
+Cliente.h
+/Users/estape11/CLionProjects/ClienteServidorSockets/Cliente/Cliente.h
+

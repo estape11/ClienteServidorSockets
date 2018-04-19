@@ -1,0 +1,3 @@
+/Users/estape11/CLionProjects/ClienteServidorSockets/Servidor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/estape11/CLionProjects/ClienteServidorSockets/Servidor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/estape11/CLionProjects/ClienteServidorSockets/Servidor/cmake-build-debug/CMakeFiles/Servidor.dir
